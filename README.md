@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brendan8283
+- 👋 Hi, I’m Brendan @brendan8283
 - 👀 I’m interested in ... Everything really.
 - 🌱 I’m currently learning ... Codeing. Computer and IT Course.
 - 📫 How to reach me ... Normal methods.
